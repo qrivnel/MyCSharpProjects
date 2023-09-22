@@ -1,0 +1,8 @@
+C:\Users\uaerh\source\repos\PartitionLinkedList\PartitionLinkedList\bin\Debug\PartitionLinkedList.exe.config
+C:\Users\uaerh\source\repos\PartitionLinkedList\PartitionLinkedList\bin\Debug\PartitionLinkedList.exe
+C:\Users\uaerh\source\repos\PartitionLinkedList\PartitionLinkedList\bin\Debug\PartitionLinkedList.pdb
+C:\Users\uaerh\source\repos\PartitionLinkedList\PartitionLinkedList\obj\Debug\PartitionLinkedList.csproj.AssemblyReference.cache
+C:\Users\uaerh\source\repos\PartitionLinkedList\PartitionLinkedList\obj\Debug\PartitionLinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\uaerh\source\repos\PartitionLinkedList\PartitionLinkedList\obj\Debug\PartitionLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\uaerh\source\repos\PartitionLinkedList\PartitionLinkedList\obj\Debug\PartitionLinkedList.exe
+C:\Users\uaerh\source\repos\PartitionLinkedList\PartitionLinkedList\obj\Debug\PartitionLinkedList.pdb

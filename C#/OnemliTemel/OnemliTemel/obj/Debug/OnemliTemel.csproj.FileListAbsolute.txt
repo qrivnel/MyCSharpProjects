@@ -1,0 +1,8 @@
+C:\Users\uaerh\source\repos\OnemliTemel\OnemliTemel\bin\Debug\OnemliTemel.exe.config
+C:\Users\uaerh\source\repos\OnemliTemel\OnemliTemel\bin\Debug\OnemliTemel.exe
+C:\Users\uaerh\source\repos\OnemliTemel\OnemliTemel\bin\Debug\OnemliTemel.pdb
+C:\Users\uaerh\source\repos\OnemliTemel\OnemliTemel\obj\Debug\OnemliTemel.csproj.AssemblyReference.cache
+C:\Users\uaerh\source\repos\OnemliTemel\OnemliTemel\obj\Debug\OnemliTemel.csproj.SuggestedBindingRedirects.cache
+C:\Users\uaerh\source\repos\OnemliTemel\OnemliTemel\obj\Debug\OnemliTemel.csproj.CoreCompileInputs.cache
+C:\Users\uaerh\source\repos\OnemliTemel\OnemliTemel\obj\Debug\OnemliTemel.exe
+C:\Users\uaerh\source\repos\OnemliTemel\OnemliTemel\obj\Debug\OnemliTemel.pdb
