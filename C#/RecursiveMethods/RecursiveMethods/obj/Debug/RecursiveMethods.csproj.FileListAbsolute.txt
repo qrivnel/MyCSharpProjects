@@ -1,0 +1,8 @@
+C:\Users\uaerh\source\repos\RecursiveMethods\RecursiveMethods\bin\Debug\RecursiveMethods.exe.config
+C:\Users\uaerh\source\repos\RecursiveMethods\RecursiveMethods\bin\Debug\RecursiveMethods.exe
+C:\Users\uaerh\source\repos\RecursiveMethods\RecursiveMethods\bin\Debug\RecursiveMethods.pdb
+C:\Users\uaerh\source\repos\RecursiveMethods\RecursiveMethods\obj\Debug\RecursiveMethods.csproj.AssemblyReference.cache
+C:\Users\uaerh\source\repos\RecursiveMethods\RecursiveMethods\obj\Debug\RecursiveMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\uaerh\source\repos\RecursiveMethods\RecursiveMethods\obj\Debug\RecursiveMethods.csproj.CoreCompileInputs.cache
+C:\Users\uaerh\source\repos\RecursiveMethods\RecursiveMethods\obj\Debug\RecursiveMethods.exe
+C:\Users\uaerh\source\repos\RecursiveMethods\RecursiveMethods\obj\Debug\RecursiveMethods.pdb

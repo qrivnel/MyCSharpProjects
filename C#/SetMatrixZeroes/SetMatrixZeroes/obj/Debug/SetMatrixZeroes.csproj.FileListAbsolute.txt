@@ -1,0 +1,8 @@
+C:\Users\uaerh\source\repos\SetMatrixZeroes\SetMatrixZeroes\bin\Debug\SetMatrixZeroes.exe.config
+C:\Users\uaerh\source\repos\SetMatrixZeroes\SetMatrixZeroes\bin\Debug\SetMatrixZeroes.exe
+C:\Users\uaerh\source\repos\SetMatrixZeroes\SetMatrixZeroes\bin\Debug\SetMatrixZeroes.pdb
+C:\Users\uaerh\source\repos\SetMatrixZeroes\SetMatrixZeroes\obj\Debug\SetMatrixZeroes.csproj.AssemblyReference.cache
+C:\Users\uaerh\source\repos\SetMatrixZeroes\SetMatrixZeroes\obj\Debug\SetMatrixZeroes.csproj.SuggestedBindingRedirects.cache
+C:\Users\uaerh\source\repos\SetMatrixZeroes\SetMatrixZeroes\obj\Debug\SetMatrixZeroes.csproj.CoreCompileInputs.cache
+C:\Users\uaerh\source\repos\SetMatrixZeroes\SetMatrixZeroes\obj\Debug\SetMatrixZeroes.exe
+C:\Users\uaerh\source\repos\SetMatrixZeroes\SetMatrixZeroes\obj\Debug\SetMatrixZeroes.pdb

@@ -1,0 +1,8 @@
+C:\Users\uaerh\source\repos\Reflection\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\uaerh\source\repos\Reflection\Reflection\bin\Debug\Reflection.exe
+C:\Users\uaerh\source\repos\Reflection\Reflection\bin\Debug\Reflection.pdb
+C:\Users\uaerh\source\repos\Reflection\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+C:\Users\uaerh\source\repos\Reflection\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+C:\Users\uaerh\source\repos\Reflection\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\uaerh\source\repos\Reflection\Reflection\obj\Debug\Reflection.exe
+C:\Users\uaerh\source\repos\Reflection\Reflection\obj\Debug\Reflection.pdb

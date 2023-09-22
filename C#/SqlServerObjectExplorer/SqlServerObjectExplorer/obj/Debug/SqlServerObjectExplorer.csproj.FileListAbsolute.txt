@@ -1,0 +1,11 @@
+C:\Users\uaerh\source\repos\SqlServerObjectExplorer\SqlServerObjectExplorer\bin\Debug\SqlServerObjectExplorer.exe.config
+C:\Users\uaerh\source\repos\SqlServerObjectExplorer\SqlServerObjectExplorer\bin\Debug\SqlServerObjectExplorer.exe
+C:\Users\uaerh\source\repos\SqlServerObjectExplorer\SqlServerObjectExplorer\bin\Debug\SqlServerObjectExplorer.pdb
+C:\Users\uaerh\source\repos\SqlServerObjectExplorer\SqlServerObjectExplorer\obj\Debug\SqlServerObjectExplorer.csproj.AssemblyReference.cache
+C:\Users\uaerh\source\repos\SqlServerObjectExplorer\SqlServerObjectExplorer\obj\Debug\SqlServerObjectExplorer.csproj.SuggestedBindingRedirects.cache
+C:\Users\uaerh\source\repos\SqlServerObjectExplorer\SqlServerObjectExplorer\obj\Debug\SqlServerObjectExplorer.Form1.resources
+C:\Users\uaerh\source\repos\SqlServerObjectExplorer\SqlServerObjectExplorer\obj\Debug\SqlServerObjectExplorer.Properties.Resources.resources
+C:\Users\uaerh\source\repos\SqlServerObjectExplorer\SqlServerObjectExplorer\obj\Debug\SqlServerObjectExplorer.csproj.GenerateResource.cache
+C:\Users\uaerh\source\repos\SqlServerObjectExplorer\SqlServerObjectExplorer\obj\Debug\SqlServerObjectExplorer.csproj.CoreCompileInputs.cache
+C:\Users\uaerh\source\repos\SqlServerObjectExplorer\SqlServerObjectExplorer\obj\Debug\SqlServerObjectExplorer.exe
+C:\Users\uaerh\source\repos\SqlServerObjectExplorer\SqlServerObjectExplorer\obj\Debug\SqlServerObjectExplorer.pdb

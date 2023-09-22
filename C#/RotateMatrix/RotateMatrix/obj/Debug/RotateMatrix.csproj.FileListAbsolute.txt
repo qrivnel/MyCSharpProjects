@@ -1,0 +1,8 @@
+C:\Users\uaerh\source\repos\RotateMatrix\RotateMatrix\bin\Debug\RotateMatrix.exe.config
+C:\Users\uaerh\source\repos\RotateMatrix\RotateMatrix\bin\Debug\RotateMatrix.exe
+C:\Users\uaerh\source\repos\RotateMatrix\RotateMatrix\bin\Debug\RotateMatrix.pdb
+C:\Users\uaerh\source\repos\RotateMatrix\RotateMatrix\obj\Debug\RotateMatrix.csproj.AssemblyReference.cache
+C:\Users\uaerh\source\repos\RotateMatrix\RotateMatrix\obj\Debug\RotateMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\uaerh\source\repos\RotateMatrix\RotateMatrix\obj\Debug\RotateMatrix.csproj.CoreCompileInputs.cache
+C:\Users\uaerh\source\repos\RotateMatrix\RotateMatrix\obj\Debug\RotateMatrix.exe
+C:\Users\uaerh\source\repos\RotateMatrix\RotateMatrix\obj\Debug\RotateMatrix.pdb
