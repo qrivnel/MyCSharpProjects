@@ -1,0 +1,8 @@
+C:\Users\uaerh\source\repos\GoogleInterviewQuestion\GoogleInterviewQuestion\bin\Debug\GoogleInterviewQuestion.exe.config
+C:\Users\uaerh\source\repos\GoogleInterviewQuestion\GoogleInterviewQuestion\bin\Debug\GoogleInterviewQuestion.exe
+C:\Users\uaerh\source\repos\GoogleInterviewQuestion\GoogleInterviewQuestion\bin\Debug\GoogleInterviewQuestion.pdb
+C:\Users\uaerh\source\repos\GoogleInterviewQuestion\GoogleInterviewQuestion\obj\Debug\GoogleInterviewQuestion.csproj.AssemblyReference.cache
+C:\Users\uaerh\source\repos\GoogleInterviewQuestion\GoogleInterviewQuestion\obj\Debug\GoogleInterviewQuestion.csproj.SuggestedBindingRedirects.cache
+C:\Users\uaerh\source\repos\GoogleInterviewQuestion\GoogleInterviewQuestion\obj\Debug\GoogleInterviewQuestion.csproj.CoreCompileInputs.cache
+C:\Users\uaerh\source\repos\GoogleInterviewQuestion\GoogleInterviewQuestion\obj\Debug\GoogleInterviewQuestion.exe
+C:\Users\uaerh\source\repos\GoogleInterviewQuestion\GoogleInterviewQuestion\obj\Debug\GoogleInterviewQuestion.pdb
