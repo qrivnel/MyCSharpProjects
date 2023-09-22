@@ -1,0 +1,8 @@
+C:\Users\uaerh\source\repos\FilledNode\FilledNode\bin\Debug\FilledNode.exe.config
+C:\Users\uaerh\source\repos\FilledNode\FilledNode\bin\Debug\FilledNode.exe
+C:\Users\uaerh\source\repos\FilledNode\FilledNode\bin\Debug\FilledNode.pdb
+C:\Users\uaerh\source\repos\FilledNode\FilledNode\obj\Debug\FilledNode.csproj.AssemblyReference.cache
+C:\Users\uaerh\source\repos\FilledNode\FilledNode\obj\Debug\FilledNode.csproj.SuggestedBindingRedirects.cache
+C:\Users\uaerh\source\repos\FilledNode\FilledNode\obj\Debug\FilledNode.csproj.CoreCompileInputs.cache
+C:\Users\uaerh\source\repos\FilledNode\FilledNode\obj\Debug\FilledNode.exe
+C:\Users\uaerh\source\repos\FilledNode\FilledNode\obj\Debug\FilledNode.pdb
