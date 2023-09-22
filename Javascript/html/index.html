@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <!-- . = class ------- # = id -->
+    <style>
+        .divOzellik{
+            width: 50%;
+            height: 80px;
+            background-color: aqua;
+            text-align: center;
+        }
+
+    </style>
+</head>
+
+<!--
+www.w3schools.com ==> html
+
+    1- hr: bir satir çizgi
+    2- br: bir satir boşluk
+    3- strong: kalın
+    4- b: kalın(strongla aynı)
+    5- i: italik yapar
+    6- mark: üstünü işaretler fosforlu kalem gibi
+    7- center: ekrana ortalar
+    8- a: link yapar
+        A- target: yeni sekmede açma => _blank
+    9- ol(ordinary list), ul(unordinary list)
+    10- table: tablo
+        A- tr: table row
+        B- td: table data
+        C- th: table header
+            a-) rowspan(satırları birleştirir)
+            b-) colspan(sütunları birleştirir)
+    11- Inline ve block mantığı
+    12- div etiketleri
+
+    --------------- Form Kullanımı ------------------
+    <input type="text">
+    <input type="password">
+    <input type="email">
+    <input type="checkbox">
+    <input type="radio">
+    <input type="file">
+    <input type="reset">
+    <input type="submit">
+    <textarea id="w3review" name="w3review" rows="4" cols="50">
+    <select><option>
+
+-->
+<body>
+    
+    <h1>HTML Dersleri</h1>
+    <hr>
+    <p>CSS Dersleri</p>
+    <br>
+    <i>Derss</i>
+    <br>
+    <h3>Javascript</h3>
+    <h1><strong>Javascript</strong></h1>
+    <hr>
+    <p>Lorem.</p>
+    <p><b>Lorem.</b></p>
+    <mark>Lorem.</mark>
+    <br>
+    <br>
+    <center>
+    <h1>My Old Electric Guitar</h1>
+    <img src="/20190614_185439.jpg" alt="error" width="600" height="350">
+    </center>
+    <br>
+    <br>
+    <a href="https://www.google.com" target="_blank">Click</a> for <a href="https://www.google.com" target="_blank">Google</a>
+    <a href="https://www.google.com" target="_blank">
+    <img width="50" height="50" src="/google-logo-icon-png-transparent-background-osteopathy-16.png" alt="Image not found.">
+    </a>
+
+    <ul>
+        <li>Erhan</li>
+        <li>KARATAŞ</li>
+    </ul>
+
+    <ol type="1">
+        <li>Erhan</li>
+        <ol type="a">
+            <li>name</li>
+            <li>info</li>
+        </ol>
+        <li>KARATAŞ</li>
+        <ol type="a">
+            <li>Surname</li>
+            <li>İnfo</li>
+        </ol>
+    </ol>
+    <br>
+    <br>
+    <br>
+    
+    <table border="1">
+        <tr>
+            <th colspan="3-">Personal Info</th>
+        </tr>
+        <tr>
+            <td>Erhan</td>
+            <td>KARATAŞ</td>
+            <td>211816017010</td>
+        </tr>
+    </table>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!--WORKSHOP1-->
+    <table border="4" style="text-align: center; width: 40%; border-style: solid;" >
+        <tr>
+            <th colspan="3-" >Product</th>
+        </tr>
+        <tr>
+            <th>No</th>
+            <th>P. Name</th>
+            <th>P. Count</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Pen</td>
+            <td rowspan="3">50</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Book</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Dust</td>
+        </tr>
+    </table>
+
+    <p>Erhan</p>
+    <p>Karataş</p>
+    <h2>My Website</h2>
+    <span>Copyrights Reserved.</span>
+    <span>This is a test.</span>
+    <br>
+    <span>This is a test2.</span>
+    <br>
+    <br>
+    <div class="divOzellik">
+        Erhan
+        <h1>Karataş</h1>
+    </div>
+    <br>
+    <br>
+
+    <!--FORM START-->
+    <!-- action="" method="" -->
+    <form>
+        <input type="text" placeholder="Name"> <br><br>
+        <input type="password" placeholder="Password"> <br><br>
+        <input type="email" placeholder="e-mail"> <br><br>
+        Check me:<input type="checkbox"> <br><br>
+        Radio me: <br>
+        Radio1 <input type="radio" name="radioBtn1" checked="true"><br>
+        Radio2 <input type="radio" name="radioBtn1"><br><br>
+        <input type="file"><br><br>
+        Send a message <br>
+        Object:
+        <select>
+            <option value="Discontinuity">Discontinuity</option>
+            <option value="Question">Question</option>
+            <option value="Exam">Exam</option>
+        </select>
+        <br><br><textarea cols="30" rows="3"></textarea><br>
+        <input type="submit" value="Send"> <!-- action -->
+        <input type="reset" value="Reset"> <!-- Form reset -->
+    </form>
+    <!--FORM FINISH-->
+    <br>
+    <video width="300" height="300">
+        <source src="video.mp4">
+    </video>
+    <br><br>
+    <!--IFrame Kullanımı-->
+    <iframe src="http://unicornitems.com/" width="600" height="400" frameborder="0"></iframe>
+    <br><br><br><br><br>
+    <iframe width="300" height="300" 
+    src="https://www.youtube.com/embed/cfMyHUwZBZY?list=PLLdGJT3aThQSfdTXp8NYQHW9UqU0n_sWh" 
+    title="Mirror - Lil Wayne ft. Bruno Mars (guitar cover and improvisation)" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen></iframe>
+</body>
+</html>
