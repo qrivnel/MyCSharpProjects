@@ -1,0 +1,9 @@
+C:\Users\uaerh\source\repos\MaskChasing\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\uaerh\source\repos\MaskChasing\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\uaerh\source\repos\MaskChasing\Business\bin\Debug\Business.dll
+C:\Users\uaerh\source\repos\MaskChasing\Business\bin\Debug\Business.pdb
+C:\Users\uaerh\source\repos\MaskChasing\Business\bin\Debug\Entities.dll
+C:\Users\uaerh\source\repos\MaskChasing\Business\bin\Debug\Entities.pdb
+C:\Users\uaerh\source\repos\MaskChasing\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\uaerh\source\repos\MaskChasing\Business\obj\Debug\Business.dll
+C:\Users\uaerh\source\repos\MaskChasing\Business\obj\Debug\Business.pdb
