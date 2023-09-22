@@ -1,0 +1,8 @@
+C:\Users\uaerh\source\repos\VeriYapilariLinkedList2\VeriYapilariLinkedList2\bin\Debug\VeriYapilariLinkedList2.exe.config
+C:\Users\uaerh\source\repos\VeriYapilariLinkedList2\VeriYapilariLinkedList2\bin\Debug\VeriYapilariLinkedList2.exe
+C:\Users\uaerh\source\repos\VeriYapilariLinkedList2\VeriYapilariLinkedList2\bin\Debug\VeriYapilariLinkedList2.pdb
+C:\Users\uaerh\source\repos\VeriYapilariLinkedList2\VeriYapilariLinkedList2\obj\Debug\VeriYapilariLinkedList2.csproj.AssemblyReference.cache
+C:\Users\uaerh\source\repos\VeriYapilariLinkedList2\VeriYapilariLinkedList2\obj\Debug\VeriYapilariLinkedList2.csproj.SuggestedBindingRedirects.cache
+C:\Users\uaerh\source\repos\VeriYapilariLinkedList2\VeriYapilariLinkedList2\obj\Debug\VeriYapilariLinkedList2.csproj.CoreCompileInputs.cache
+C:\Users\uaerh\source\repos\VeriYapilariLinkedList2\VeriYapilariLinkedList2\obj\Debug\VeriYapilariLinkedList2.exe
+C:\Users\uaerh\source\repos\VeriYapilariLinkedList2\VeriYapilariLinkedList2\obj\Debug\VeriYapilariLinkedList2.pdb

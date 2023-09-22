@@ -1,0 +1,11 @@
+C:\Users\uaerh\source\repos\YardimEli\YardimEli\bin\Debug\YardimEli.exe.config
+C:\Users\uaerh\source\repos\YardimEli\YardimEli\bin\Debug\YardimEli.exe
+C:\Users\uaerh\source\repos\YardimEli\YardimEli\bin\Debug\YardimEli.pdb
+C:\Users\uaerh\source\repos\YardimEli\YardimEli\obj\Debug\YardimEli.csproj.AssemblyReference.cache
+C:\Users\uaerh\source\repos\YardimEli\YardimEli\obj\Debug\YardimEli.csproj.SuggestedBindingRedirects.cache
+C:\Users\uaerh\source\repos\YardimEli\YardimEli\obj\Debug\YardimEli.Form1.resources
+C:\Users\uaerh\source\repos\YardimEli\YardimEli\obj\Debug\YardimEli.Properties.Resources.resources
+C:\Users\uaerh\source\repos\YardimEli\YardimEli\obj\Debug\YardimEli.csproj.GenerateResource.cache
+C:\Users\uaerh\source\repos\YardimEli\YardimEli\obj\Debug\YardimEli.csproj.CoreCompileInputs.cache
+C:\Users\uaerh\source\repos\YardimEli\YardimEli\obj\Debug\YardimEli.exe
+C:\Users\uaerh\source\repos\YardimEli\YardimEli\obj\Debug\YardimEli.pdb
